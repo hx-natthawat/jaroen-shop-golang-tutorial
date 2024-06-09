@@ -4,7 +4,7 @@
 
 - 001: Hello World - [Link](https://github.com/hx-natthawat/jaroen-shop-golang-tutorial/commit/b6064836a1ceb268b27235dcb762e82acb49d0ce)
 
-- 002: Configurations / Env and Modules
+- 002: Configurations / Env and Modules - [Link](https://github.com/hx-natthawat/jaroen-shop-golang-tutorial/commit/9fae974)
 
 ## Install go
 
