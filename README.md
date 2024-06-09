@@ -1,12 +1,46 @@
 # jaroen-shop-golang-tutorial
 
+## Lesson
+
+- 001: Hello World - [Link](https://github.com/hx-natthawat/jaroen-shop-golang-tutorial/commit/b6064836a1ceb268b27235dcb762e82acb49d0ce)
+
+- 002: Configurations / Env and Modules
+
 ## Install go
 
-1. Install go
+1. ForInstall go
+
+For MacOS
 
 ```bash
 brew install go
 ```
+
+For Ubuntu
+
+```bash
+sudo apt-get install golang-go
+```
+
+For Windows
+
+```bash
+choco install golang
+```
+
+2. Install go modules
+
+```bash
+go get -u golang.org/x/tools/gopls
+```
+
+3. Install gopls for VSCode
+
+```bash
+go install golang.org/x/tools/gopls@latest
+```
+
+---
 
 ## Initial setup
 
@@ -34,6 +68,15 @@ func main() {
 $ go run main.go
 Hello, world!
 ```
+
+## Style guide
+
+1. [Go Style](https://google.github.io/styleguide/go/)
+2. [Best practices](https://google.github.io/styleguide/go/best-practices)
+
+## Related libraries
+
+1. [Go Linter](https://go.dev/wiki/CodeReviewComments)
 
 ## Issue logs
 
