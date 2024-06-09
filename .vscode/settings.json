@@ -1,0 +1,6 @@
+{
+  "go.goroot": "/opt/homebrew/bin/go",
+  "go.alternateTools": {
+    "go": "/snap/go/current/bin/go"
+  }
+}
